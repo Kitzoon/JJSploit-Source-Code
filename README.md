@@ -1,2 +1,2 @@
-# JJSploit-Source-Code
-JJSploit's source code, dumped with nodejs and the npm package "asar".
+# JJSploit Source Code
+JJSploit's source code, decompiled with nodejs and the npm package "asar".
