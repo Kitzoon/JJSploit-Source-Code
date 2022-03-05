@@ -1,5 +1,5 @@
 # JJSploit Source Code
-JJSploit's source code, decompiled with nodejs and the npm package "asar".
+JJSploit's source code, dumped with nodejs and the npm package "asar".
 
 # Download link
 Why do I need to download it? Because their was too many files so github didn't let me upload it all at once.
